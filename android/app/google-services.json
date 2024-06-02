@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174328698139",
+    "project_id": "viventis-57ab4",
+    "storage_bucket": "viventis-57ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174328698139:android:afa8d2a34b2b659b766fbe",
+        "android_client_info": {
+          "package_name": "com.example.viventis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuihNmK3vIWsO_ol25ut5rxieSxyqvao0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
